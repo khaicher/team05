@@ -1,0 +1,5 @@
+Name, Student_id, Class_number
+Lim khai cher, S10257073K, TC09
+Deborah Ariel Chioh Yu Tong, S10257182E, TC09
+Nurdiana Binte Nooordin, S10262794D, TC09
+Tan Yu Kai, S10258826J, TC09
